@@ -1,4 +1,6 @@
-# A compiler (written in Ruby).
+# compiler-rb
+
+A (very, very) minimal compiler written in [ruby](https://www.ruby-lang.org). It compiles code written in a [toy language](./example) to [javascript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics).
 
 > It should probably be called a "transpiler" 🤭
 
