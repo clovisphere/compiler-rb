@@ -1,4 +1,4 @@
-# An example compiler (written in Ruby).
+# A compiler (written in Ruby).
 
 > It'd probably be called a "transpiler" 🤭
 
