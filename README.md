@@ -2,6 +2,12 @@
 
 > It'd probably be called a "transpiler" 🤭
 
+```console
+comnpiler.rb       # The compiler
+example            # The toy language
+README.md          # Well... Read it!!!
+```
+
 ## Prerequisite
 
 You need both a `ruby` and `node` interpreter for this to work 🙃
