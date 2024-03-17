@@ -19,7 +19,7 @@ You need both a `ruby` and `node` interpreter for this to work 🙃
 
 ```bash
 ruby compiler.rb | node
-# 3 -> what should you get/see :-)
+# 3 -> what you should get/see :-)
 ```
 
 Feel free to change the literal arguments to `f` on [Line #5](./compiler.rb?plain=1#L5).
