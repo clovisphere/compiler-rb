@@ -3,7 +3,7 @@
 > It should probably be called a "transpiler" 🤭
 
 ```console
-comnpiler.rb       # The compiler
+compiler.rb        # The compiler
 example            # The toy language
 README.md          # Well... Read it!!!
 ```
