@@ -1,6 +1,6 @@
 # A compiler (written in Ruby).
 
-> It'd probably be called a "transpiler" 🤭
+> It should probably be called a "transpiler" 🤭
 
 ```console
 comnpiler.rb       # The compiler
