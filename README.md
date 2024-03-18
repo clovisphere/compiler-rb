@@ -32,4 +32,4 @@ Example:
 TEST = 'console.log(f(4, 22));'
 ```
 
-This work is based on the excellent [A Compiler From Scratch](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch) screencast from [Gary Bernhardt](https://www.destroyallsoftware.com/).
+This work is based on the excellent [A Compiler From Scratch](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch) screencast by [Gary Bernhardt](https://www.destroyallsoftware.com/).
